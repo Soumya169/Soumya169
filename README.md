@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@soumya117's Holopin board](https://holopin.me/soumya117)](https://holopin.io/@soumya117)
-<h1 align="center">Hi 👋, I'm Sumya Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Soumya Ranjan</h1>
 <h3 align="center">A Enthusiastic WebDevelopment learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya169&label=Profile%20views&color=0e75b6&style=flat" alt="soumya169" /> </p>
